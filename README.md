@@ -62,13 +62,13 @@ The motors were a bit of a pain to set up. For one, they all seemed to run at di
 Besides this, the 3d printing of the car frame itself had plenty of issues. I forgot to add room for a battery to power the car, placed the LiDAR sensor too low preventing it from looking over the wiring behind it, designed the motor mounts poorly making the motors not sit right, and 3d printed with a raft that couldn’t come off, requiring a lot of time to reopen all the screw holds. Overall, I ended up wasting a huge amount of time with issues that could’ve been avoided with a bit more foresight. 
 
 #### The car
-<img src="https://github.com/user-attachments/assets/3a467175-efc5-48a5-a110-58bbfe67089a" width="400">
+<img width="439" height="330" alt="image" src="https://github.com/user-attachments/assets/dedd1afa-3c5a-4e8c-8c29-473c84b7aae3" />
 
 #### My poor PD board with 5 wires sticking out of it
-<img src="https://github.com/user-attachments/assets/dc487416-b103-4937-9658-eecbf2fe836e" width="400">
+<img width="442" height="333" alt="image" src="https://github.com/user-attachments/assets/ac107da9-7944-48e6-baf4-597bed3cb964" />
 
 #### Motor wiring
-<img src="https://github.com/user-attachments/assets/cb4b0fc4-9932-479f-a46e-bf27531cc85f" width="400">
+<img width="441" height="332" alt="image" src="https://github.com/user-attachments/assets/305f0409-4b58-4f4c-b81b-a318d5fd6d07" />
 
 ## Setup Instructions
 [Raspi Setup](https://docs.google.com/document/d/1VicPf9Ix9zK1yYcYrydHvw1rszm0e4NzeWnU7tpV8HI/edit?usp=sharing)
