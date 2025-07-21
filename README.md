@@ -1,5 +1,5 @@
 # LiDAR Car SLAM
-![ezgif-32b6cc807a0e04](https://github.com/user-attachments/assets/6c6eae61-2ee0-4975-b378-27ac052a5136)
+![ezgif-5be1e6be106e49](https://github.com/user-attachments/assets/34be99ab-83c2-4273-858f-1c9bb4d0e81c)
 
 Blog post: [https://matthew-bird.com/blogs/LiDAR%20Car.html](https://matthew-bird.com/blogs/LiDAR%20Car.html)
 
